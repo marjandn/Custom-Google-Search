@@ -1,6 +1,11 @@
 # Custom-Google-Search
 with this module you can create custom searching in google engine in android app also you can use several filter that Google Provides for you, and then get search results in json format , so use it!!
 
+# Used 
+[RxJava](https://github.com/ReactiveX/RxJava)
+
+[Retrofit](http://square.github.io/retrofit/)
+
 if your app include a part that should search user input word in google engine and get result in json format and show in app , 
 in simple word create custom browser; my mean from "custom search" is several search option and filter that google console provides for us like 
 
